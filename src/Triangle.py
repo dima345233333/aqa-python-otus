@@ -1,6 +1,6 @@
 from cmath import sqrt
 
-import Figure
+from . import Figure
 
 
 class Triangle(Figure.Figure):

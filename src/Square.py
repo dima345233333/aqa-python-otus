@@ -1,4 +1,4 @@
-import Rectangle
+from . import Rectangle
 
 
 class Square(Rectangle.Rectangle):
